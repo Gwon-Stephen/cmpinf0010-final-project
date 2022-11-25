@@ -13,7 +13,7 @@ Justin Bailey
 # Description and links to the datasets used:
 Police activities\
 Example of arrested of by police\
-How police care about those neighborhoods/n\
+How police care about those neighborhoods\
 https://data.wprdc.org/dataset/police-incident-blotter \
 https://data.wprdc.org/dataset/arrest-data \
 https://data.wprdc.org/dataset/pbp-fire-arm-seizures
