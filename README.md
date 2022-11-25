@@ -3,7 +3,7 @@ Final project for Big Ideas in Computing and Information at the University of Pi
 Finding the "Best" Neightborhood in the Pittbsurgh area
 
 # Team Name: 
-Educated villains
+Educated Villains
 
 # Team Members: 
 Stephen Gwon JEG204@pitt.edu\
