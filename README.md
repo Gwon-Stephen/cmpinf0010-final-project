@@ -8,7 +8,7 @@ Educated Villains
 # Team Members: 
 Stephen Gwon JEG204@pitt.edu\
 Bobby Ye boy30@pitt.edu\
-Justin Bailey
+Justin Bailey JWB125@pitt.edu
 
 # Description and links to the datasets used:
 Police activities\
