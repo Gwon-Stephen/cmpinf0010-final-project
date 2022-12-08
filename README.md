@@ -1,6 +1,8 @@
 # cmpinf0010-final-project
 Final project for Big Ideas in Computing and Information at the University of Pittsburgh\
-Finding the "Best" Neightborhood in the Pittbsurgh area
+We want to find the "Best" Neighborhood in the Pittbsurgh area to get away with a robbery. 
+
+#DISCLAIMER: We do not condone theft, assault, or robbery of any kind. 
 
 # Team Name: 
 Educated Villains
@@ -26,4 +28,4 @@ https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 # A one sentence overview of your repository:
 Our project will find the neighborhood in Pittsburgh that has the highest chance to pull off a robbery whilst having the least chance of getting caught.
 
-DISCLAIMER: We do not condone theft, assault, or robbery of any kind. 
+
