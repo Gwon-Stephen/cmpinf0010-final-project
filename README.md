@@ -2,7 +2,7 @@
 Final project for Big Ideas in Computing and Information at the University of Pittsburgh\
 We want to find the "Best" Neighborhood in the Pittbsurgh area to get away with a robbery. 
 
-#DISCLAIMER: We do not condone theft, assault, or robbery of any kind. 
+DISCLAIMER: We do not condone theft, assault, or robbery of any kind. 
 
 # Team Name: 
 Educated Villains
