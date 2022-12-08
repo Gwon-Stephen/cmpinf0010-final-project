@@ -15,10 +15,10 @@ Group 15
 
 # Description and links to the datasets used:
 Police activities\
-https://data.wprdc.org/dataset/police-incident-blotter \
+https://data.wprdc.org/dataset/police-incident-blotter 
 
 Police Arrests\
-https://data.wprdc.org/dataset/arrest-data \
+https://data.wprdc.org/dataset/arrest-data 
 
 Firearm Seizures\
 https://data.wprdc.org/dataset/pbp-fire-arm-seizures
