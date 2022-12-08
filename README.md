@@ -15,11 +15,15 @@ Group 15
 
 # Description and links to the datasets used:
 Police activities\
-Example of arrested of by police\
-How police care about those neighborhoods\
 https://data.wprdc.org/dataset/police-incident-blotter \
+
+Police Arrests\
 https://data.wprdc.org/dataset/arrest-data \
+
+Firearm Seizures\
 https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 
 # A one sentence overview of your repository:
-Our project is going to find the neighbourhood in Pittsburgh that has the least chance to be arrested by police.
+Our project will find the neighborhood in Pittsburgh that has the highest chance to pull off a robbery whilst having the least chance of getting caught.
+
+DISCLAIMER: We do not condone theft, assault, or robbery of any kind. 
