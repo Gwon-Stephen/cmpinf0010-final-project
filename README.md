@@ -10,7 +10,7 @@ Educated Villains
 # Team Members: 
 Stephen Gwon JEG204@pitt.edu\
 Bobby Ye boy30@pitt.edu\
-Justin Bailey JWB125@pitt.edu
+Justin Bailey JWB125@pitt.edu\
 
 # Canvas Group Number:
 Group 15
